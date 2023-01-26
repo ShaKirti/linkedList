@@ -1,5 +1,9 @@
 package com.workshop;
 
+/**
+ * @author Shashank
+ * @param <k> - key 
+ */
 public class MyLinkedList<k> {
     private MyLinkedList next;
     private k key;

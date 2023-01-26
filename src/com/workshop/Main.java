@@ -1,5 +1,8 @@
 package com.workshop;
 
+/**
+ * @author Shashank
+ */
 public class Main {
     public static void main(String[] args) {
         MyLinkedList<Integer> myList = new MyLinkedList<>(12);
