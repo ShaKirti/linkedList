@@ -2,7 +2,7 @@ package com.workshop;
 
 /**
  * @author Shashank
- * @param <k> - key 
+ * @param <k> - key
  */
 public class MyLinkedList<k> {
     private MyLinkedList next;
