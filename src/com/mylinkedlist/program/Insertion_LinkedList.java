@@ -1,11 +1,12 @@
-package com.mylinkedlist.rpogram;
+package com.mylinkedlist.program;
 /**
  * @author Shashank
  */
 public class Insertion_LinkedList {
     Node head;
     private int size;
-    public Insertion_LinkedList(){
+
+    Insertion_LinkedList(){
         this.size = 0;
     }
     class Node {
